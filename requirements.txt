@@ -1,0 +1,6 @@
+Flask
+Flask-CORS
+pytesseract
+Pillow
+reportlab
+gunicorn
