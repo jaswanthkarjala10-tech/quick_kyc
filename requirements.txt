@@ -3,3 +3,6 @@ Flask-Cors
 pytesseract
 Pillow
 gunicorn
+reportlab
+opencv-python-headless
+numpy
